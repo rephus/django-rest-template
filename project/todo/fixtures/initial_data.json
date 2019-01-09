@@ -1,0 +1,24 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "admin",
+      "last_name": "admin",
+      "username": "admin",
+      "password": "pbkdf2_sha256$24000$9lmhZOlvFhTa$GSSW3P//eQ10VROIx0RVJwG6XH2tiTZXjrTNkpHfEJY=",
+      "is_staff": true,
+      "is_superuser": true
+    }
+  },
+  {
+    "model": "todo.task",
+    "pk": "54ef440a-1f60-4343-87db-c15defa3ec9c",
+    "fields": {
+      "created": "2019-01-08T22:20:05Z",
+      "modified": "2019-01-08T22:20:05Z",
+      "title": "title",
+      "completed": false
+    }
+  }
+]
