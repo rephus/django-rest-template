@@ -1,7 +1,3 @@
-
-
-# This is our custom base django image. It is built from:
-# https://github.com/networklocum/django-microservice-template/blob/master/Dockerbuild
 FROM python:3.7-alpine
 
 EXPOSE 8000
